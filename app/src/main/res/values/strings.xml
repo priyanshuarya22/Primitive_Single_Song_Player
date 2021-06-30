@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Primitive Single Song Player</string>
+    <string name="music_player">Music Player</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+</resources>
